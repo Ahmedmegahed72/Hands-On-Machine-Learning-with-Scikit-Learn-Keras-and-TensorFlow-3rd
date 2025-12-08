@@ -36,11 +36,6 @@ This repository contains my personal implementations, experiments, and notes whi
   - **Chapter 20:** The Future of Deep Learning
 ---
 
-### Part III – Training and Deploying at Scale
-18. Reinforcement Learning  
-19. Training and Deploying TensorFlow Models at Scale  
-20. The Future of Deep Learning
-
 ---
 
 
