@@ -44,4 +44,3 @@ To strengthen my understanding of:
 - Deep Learning with Keras & TensorFlow
 - End-to-end ML pipeline design and evaluation
 
-
